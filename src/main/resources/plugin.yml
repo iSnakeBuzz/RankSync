@@ -1,0 +1,6 @@
+name: RankSync
+version: 0.8
+main: com.isnakebuzz.ranksync.a.Main
+commands:
+  setrank:
+  resetrank:

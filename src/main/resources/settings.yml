@@ -1,0 +1,11 @@
+# SetRank: 'pex user %name% group set %group%' - put command with out "/"
+SetRank: 'pex user %name% group set %group%'
+ResetRank: 'pex user %name% group set %default%'
+DefaultRank: Usuario
+Message: '&6%player% has been setted %rank% in all servers with this plugin'
+MySQL:
+  HostName: 127.0.0.1
+  Port: 3306
+  Database: mc1
+  Username: root
+  Password: 123
